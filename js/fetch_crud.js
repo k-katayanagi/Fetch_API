@@ -184,4 +184,3 @@ document.addEventListener('click', (e) => {
 }, false);
 
 
- console.log("処理抜けてます")
